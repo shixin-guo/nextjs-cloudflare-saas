@@ -1,0 +1,1 @@
+ALTER TABLE `greetings` ADD `shixin` text;
